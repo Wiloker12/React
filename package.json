@@ -18,5 +18,8 @@
   "homepage": "https://github.com/Wiloker12/React#readme",
   "dependencies": {
     "jquery": "^3.6.0"
+  },
+  "devDependencies": {
+    "webpack": "^5.37.0"
   }
 }
