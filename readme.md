@@ -1,1 +1,1 @@
-##React and Redux - обучение
+## React and Redux - обучение
