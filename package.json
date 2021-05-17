@@ -1,7 +1,7 @@
 {
   "name": "react-test",
   "version": "1.0.0",
-  "description": "",
+  "description": "React-test",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Wiloker12/React/issues"
   },
-  "homepage": "https://github.com/Wiloker12/React#readme"
+  "homepage": "https://github.com/Wiloker12/React#readme",
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
 }
